@@ -6,6 +6,7 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 
 import object.login;
+import object.logout;
 
 public class Mainclass {
 
@@ -18,7 +19,13 @@ public class Mainclass {
 		login log1= new login(driver);
 		log1.log();
 
-		System.out.println("Test Passed!");
+		System.out.println("Logged In Test Passed!");
+
+		logout out1= new logout(driver);
+		out1.out();
+		
+		System.out.println("Logged Out Test Passed!");
+		
 	}
 
 }
