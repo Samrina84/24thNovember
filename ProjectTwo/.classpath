@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/labit/Desktop/Libraries/freemarker-2.3.23.jar"/>
+	<classpathentry kind="lib" path="C:/Users/labit/Desktop/Libraries/java-client-2.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/labit/Desktop/Libraries/javax.mail-1.5.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/labit/Desktop/Libraries/jxl-2.6.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/labit/Desktop/Libraries/mail-1.4.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/labit/Desktop/Libraries/selenium-server-standalone-2.39.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/labit/Desktop/Libraries/javamail-1.4.7/mail.jar"/>
+	<classpathentry kind="lib" path="C:/Users/labit/Desktop/Libraries/selenium-2.45.0/selenium-java-2.45.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/labit/Desktop/Libraries/selenium-2.45.0/selenium-java-2.45.0-srcs.jar"/>
+	<classpathentry kind="lib" path="C:/Users/labit/Desktop/Libraries/selenium-java-2.43.1/selenium-2.43.1/selenium-java-2.43.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/labit/Desktop/Libraries/selenium-java-2.43.1/selenium-2.43.1/selenium-java-2.43.1-srcs.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
