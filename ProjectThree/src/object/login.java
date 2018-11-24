@@ -24,9 +24,9 @@ public class login {
 	@FindBy(xpath="//*[@id=\"content\"]/div/div[2]/div/form/input")	
 	public WebElement submit;
 
-	public void log() {
-		Emailid.sendKeys("mytc5@gmail.com");
-		pass.sendKeys("123456789");
+	public void log(String ID, String PWD) {
+		Emailid.sendKeys(ID); 
+		pass.sendKeys(PWD); 
 		submit.click(); 
 		
 		
